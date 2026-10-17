@@ -206,11 +206,3 @@ Data Analyst | Excel • Power BI • Python • MySQL
 
 - GitHub: [@altamash-analyst](https://github.com/altamash-analyst)
 - Email: [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
-
-## Repository Description
-
-Power BI hospital operations dashboard analyzing patient visits, admissions, department and doctor performance, waiting times, patient outcomes, revenue, profit, and management targets using a synthetic Excel dataset.
-
-## Suggested GitHub Topics
-
-`power-bi` `hospital-analytics` `healthcare-analytics` `hospital-operations` `patient-analytics` `healthcare-dashboard` `business-intelligence` `data-analytics` `dax` `microsoft-excel` `operational-efficiency` `financial-analytics` `Altamash-Analyst`
