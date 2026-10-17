@@ -21,67 +21,80 @@ The dashboard is built using Microsoft Power BI and an Excel-based synthetic por
 
 ## Dashboard Pages
 
-### 1. Hospital Executive Overview
+### 1. Hospital Operations & Patient Analytics
 
-Provides a high-level view of hospital activity and performance.
+![Hospital Operations & Patient Analytics](Dashboard/Dashboard1.PNG)
 
-Key dashboard elements:
-- Total visits and unique patients
-- Total revenue and total profit
-- Average waiting time and recovery rate
-- Monthly patient visits and hospital revenue
-- Visits by department and admission type
-- Patient outcomes and hospital comparisons
+**Purpose:** Executive overview of hospital activity, operational indicators, patient outcomes, and financial performance.
+
+- Total Visits and Unique Patients
+- Total Revenue and Total Profit
+- Average Waiting Time and Recovery Rate
+- Monthly Patient Visits and Monthly Hospital Revenue
+- Patient Visits by Department
+- Revenue by Hospital
+- Visits by Admission Type and Patient Outcomes
 
 ### 2. Patient & Admission Analysis
 
-Explores patient characteristics and healthcare utilization patterns.
+![Patient & Admission Analysis](Dashboard/Dashboard2.PNG)
 
-Key dashboard elements:
-- Patient and visit counts
-- Visits by gender and age group
-- Visit type and admission type distributions
-- Insurance-type analysis
-- New, returning, and referral patient categories
-- Average length of stay and revenue per patient
+**Purpose:** Analyze patient demographics, healthcare utilization, and admission patterns.
+
+- Unique Patients, Total Visits, and New Patients
+- Average Length of Stay and Revenue per Patient
+- Visits by Gender and Age Group
+- Visits by Visit Type
+- Patients by Insurance Type
+- Admission Type Distribution
+- New vs Returning Patients
+- Patient Type & Admission Pattern
 
 ### 3. Department & Doctor Performance
 
-Compares department activity and reported financial contribution.
+![Department & Doctor Performance](Dashboard/Dashboard3.PNG)
 
-Key dashboard elements:
-- Top 10 doctors by revenue
-- Patient visits by department
-- Revenue by department
-- Doctor revenue compared with visit volume
-- Department profit margin
-- Department performance table with visits, revenue, profit, and revenue per visit
+**Purpose:** Compare department activity, doctor revenue, and departmental financial performance.
+
+- Top 10 Doctors by Revenue
+- Patient Visits by Department
+- Revenue by Department
+- Doctor Revenue vs Visit Volume
+- Department Profit Margin
+- Department Performance table
 
 ### 4. Operations & Waiting Time
 
-Focuses on operational indicators and patient outcomes.
+![Operations & Waiting Time](Dashboard/Dashboard4.PNG)
 
-Key dashboard elements:
-- Average waiting time
-- Average length of stay
-- Emergency visits
-- Readmission rate and recovery rate
-- Waiting time by department and admission type
-- Monthly visits compared with average waiting time
-- Patient outcomes by department
+**Purpose:** Monitor waiting times, length of stay, patient outcomes, and operational indicators.
+
+- Average Waiting Time
+- Average Length of Stay
+- Emergency Visits
+- Readmission Rate and Recovery Rate
+- Average Waiting Time by Department
+- Waiting Time by Admission Type
+- Monthly Visits & Average Waiting Time
+- Patient Outcomes by Department
+- Department Outcome Analysis
 
 ### 5. Revenue & Management
 
-Focuses on financial performance and target monitoring.
+![Revenue & Management](Dashboard/Dashboard5.PNG)
 
-Key dashboard elements:
-- Total revenue and treatment cost
-- Total profit and profit margin
-- Revenue target and revenue growth
-- Department revenue compared with target
-- Monthly visits compared with visit targets
-- Revenue by hospital and insurance type
-- Profit by department and department target-performance indicators
+**Purpose:** Review reported financial results and target-oriented performance indicators.
+
+- Total Revenue and Total Treatment Cost
+- Total Profit and Profit Margin
+- Revenue Target and Revenue YoY Growth
+- Department Revenue vs Target
+- Monthly Visits vs Target
+- Revenue by Hospital
+- Profit by Department
+- Revenue by Insurance Type
+- Patient Type & Admission Pattern table
+
 
 ## Dataset & Excel Workbook
 
