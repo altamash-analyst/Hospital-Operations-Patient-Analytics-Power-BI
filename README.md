@@ -217,8 +217,6 @@ The analytical approach demonstrated in this portfolio project could support hos
 **Altamash Nizamuddin**  
 Data Analyst | Excel • Power BI • Python • MySQL
 
-- GitHub: [@altamash-analyst](https://github.com/altamash-analyst)
-
-- Email: [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
-
-- **LinkedIn:** https://www.linkedin.com/in/altamash-nizamuddin-a208152a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **LinkedIn:** [Altamash Nizamuddin](https://www.linkedin.com/in/altamash-nizamuddin-a208152a3/)
+- **GitHub:** [altamash-analyst](https://github.com/altamash-analyst)
+- **Email:** [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
